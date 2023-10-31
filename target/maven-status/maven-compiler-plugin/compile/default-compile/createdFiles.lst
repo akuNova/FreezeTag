@@ -1,0 +1,6 @@
+me\nova\freezetag\Commands\StartCommand.class
+me\nova\freezetag\FreezeTag.class
+me\nova\freezetag\Controllers\GameController$State.class
+me\nova\freezetag\Events\OnPlayerJoin.class
+me\nova\freezetag\Controllers\GameController.class
+me\nova\freezetag\Models\Arena.class

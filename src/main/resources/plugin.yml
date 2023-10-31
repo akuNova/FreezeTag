@@ -1,0 +1,8 @@
+name: FreezeTag
+version: '${project.version}'
+main: me.nova.freezetag.FreezeTag
+api-version: '1.20'
+commands:
+  start:
+    description: Start Freeze Tag game
+    usage: /start
